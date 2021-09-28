@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(175, 231, 253);
+}
+
+hr {
+  background-color: black;
+  height: 3px;
+}
+
+.intro {
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+h1 {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  font-family: Helvetica;
+  font-size: 35px;
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: Helvetica;
+}
+
+a {
+  display: block;
+  margin-bottom: 8px;
+}
+
+section .align {
+  display: flex;
+}
+
+section .align p {
+  font-size: 20px;
+  font-family: Helvetica;
+  padding-right: 100px;
+}
+
+section .align img {
+  height: 300px;
+  width: 450px;
+  border-radius: 5px;
+}
